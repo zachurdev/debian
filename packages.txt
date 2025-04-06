@@ -1,0 +1,15 @@
+xorg
+lightdm
+i3
+git
+htop
+pulseaudio
+pavucontrol
+vim
+tmux
+firefox-esr
+gh
+curl
+build-essential
+alacritty
+kitty
