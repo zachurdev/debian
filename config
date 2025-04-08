@@ -196,3 +196,5 @@ client.urgent #000000 #000000 #ffffff #000000
 client.background #000000 #000000 #ffffff #000000
 
 gaps inner 10px
+
+exec --no-startup-id feh --bg-scale /home/trunk/Pictures/DesktopBG.png
