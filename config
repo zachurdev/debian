@@ -194,3 +194,5 @@ client.unfocused #000000 #000000 #ffffff #000000
 client.focused_inactive #000000 #000000 #ffffff #000000
 client.urgent #000000 #000000 #ffffff #000000
 client.background #000000 #000000 #ffffff #000000
+
+gaps inner 10px

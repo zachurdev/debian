@@ -13,3 +13,7 @@ curl
 build-essential
 alacritty
 kitty
+zip
+unzip
+hollywood
+nmap
