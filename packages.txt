@@ -19,3 +19,4 @@ hollywood
 nmap
 feh
 nasm
+cmake
