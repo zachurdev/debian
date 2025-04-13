@@ -20,3 +20,4 @@ nmap
 feh
 nasm
 cmake
+gdb
