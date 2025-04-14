@@ -21,3 +21,4 @@ feh
 nasm
 cmake
 gdb
+mousepad
