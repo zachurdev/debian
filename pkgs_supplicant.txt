@@ -1,0 +1,3 @@
+https://wiki.debian.org/VisualStudioCode
+
+https://github.com/fastfetch-cli/fastfetch

@@ -23,3 +23,4 @@ cmake
 gdb
 mousepad
 fastfetch
+code
