@@ -23,8 +23,15 @@ Shell:
 `C-o` && `C-m` Run command as typed
 
 Vim:
+(N) `:w` Write (Save)
+(N) `:wq` Write and Quit (Save and Close)
+(N) `:q` Exit (Close)
+(N) `:wq` Write and Quit (Save and Close)
+(N) `:q` Exit (Close)
+(N) `:q!` Exit without saving
 (N) `y` Yank (Copy)
 (N) `p` Put (paste)
+(N) `dd` Delete current line
 (N) `h` Left
 (N) `j` Down
 (N) `k` Up
